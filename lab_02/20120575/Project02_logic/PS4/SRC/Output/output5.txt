@@ -1,0 +1,15 @@
+2
+Q OR -T OR S
+U OR S OR -P
+
+3
+Q OR U OR S
+Q OR S OR P
+T OR Q OR U OR S
+
+1
+Q OR U OR S OR -P
+
+0
+
+NO
